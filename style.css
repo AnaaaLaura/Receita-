@@ -2,7 +2,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    -webkit-font-smoothing:
+    -webkit-font-smoothing: antialised;
 }
 
 body {
@@ -44,7 +44,7 @@ p {
 }
 
 .tempo {
- background-color: #fff7fb;
+background-color: #fff7fb;
 padding: 28px;
 border-radius: 12px;
 margin-bottom: 32px;
